@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "596959777198",
+    "firebase_url": "https://plant-76d02-default-rtdb.firebaseio.com",
+    "project_id": "plant-76d02",
+    "storage_bucket": "plant-76d02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596959777198:android:b1da79b1170cc60b7d783f",
+        "android_client_info": {
+          "package_name": "com.example.plant_z"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYzSF11drIcQofHUVxk24J8PIZ1II-_2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

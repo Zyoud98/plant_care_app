@@ -1,1 +1,3 @@
-# plant_care_app
+# plant_z
+
+A new Flutter project.
