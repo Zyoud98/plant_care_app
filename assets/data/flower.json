@@ -1,0 +1,44 @@
+{
+    "flowers": [
+        {
+            "id": 1,
+            "name": "Opuntia ficus indica",
+            "file": "Opuntia_ficus-indica.jpg",
+            "description": "is a species of cactus that has long been a domesticated crop plant grown in agricultural economies throughout arid and semiarid parts of the world. O.ficus-indica is the most widespread and most commercially important cactus. ",
+            "article": "is a species of cactus that has long been a domesticated crop plant grown in agricultural economies throughout arid and semiarid parts of the world. O.ficus-indica is the most widespread and most commercially important cactus. It is grown primarily as a fruit crop, and also for the vegetable nopales and other uses. Cacti are good crops for dry areas because they efficiently convert water into biomass. O. ficus-indica, as the most widespread of the long-domesticated cactuses, is as economically important as maize and blue agave in Mexico. Opuntia species hybridize easily, but the wild origin of O.ficus-indica is likely to have been in central Mexico, where its closest genetic relatives are found",
+            "available": true
+        },
+        {
+            "id": 2,
+            "name": "Ageratum Houstonianum",
+            "file": "Ageratum_houstonianum.jpg",
+            "description": "Ageratum Houstonianum, commonly known as Floss Flower, features delicate blooms in soft lavender hues. This annual bedding plant thrives in full sun to partial shade, adding a pop of color to garden borders and containers.",
+            "article": "Ageratum Houstonianum, commonly known as Floss Flower, features delicate blooms in soft lavender hues. This annual bedding plant thrives in full sun to partial shade, adding a pop of color to garden borders and containers. Noted for its unusual color, Ageratum houstonianum ‘Red Bouquet’ (Floss Flower) is a frost-tender annual boasting clusters of fluffy violet-red flowers from early summer to frost. Attractive to butterflies, the blossoms are borne on long, sturdy stems and float above the neat foliage mound of heart-shaped leaves. Best used for edging or borders of beds or in containers. Great for cutting.",
+            "available": false
+        },
+        {
+            "id": 3,
+            "name": "Alchemilla Alpina",
+            "file": "Alchemilla_Alpina.jpg",
+            "description": "Alchemilla Alpina, an alpine perennial, boasts intricate green foliage and tiny yellow-green blooms. This low-growing plant is prized for its ability to form dense mats of foliage, making it a charming addition to rock gardens and alpine plantings.",
+            "article": "Alchemilla Alpina, an alpine perennial, boasts intricate green foliage and tiny yellow-green blooms. This low-growing plant is prized for its ability to form dense mats of foliage, making it a charming addition to rock gardens and alpine plantings. Easy and reliable, Alchemilla alpina (Alpine Lady’s Mantle) is a low-growing perennial forming a dense mound of pale green leaves divided into 5-7 leaflets that look like open palms. They are adorned with wonderful silvery edges and covered in silky hairs. In early to mid-summer, sprays of chartreuse flowers are on display. Perfect as a small scale groundcover, under shrubs and trees, or as an edging plant. Ideal for the rock garden, this charming and easy to grow Lady’s Mantle also provides a long season of interest at the front of the border.",
+            "available": false
+        },
+        {
+            "id": 4,
+            "name": "Astrantia",
+            "file": "Astrantia.jpg",
+            "description": "Astrantia, commonly known as Masterwort, features intricate flowers in shades of pink, white, or green. This herbaceous perennial thrives in shady locations and adds a touch of whimsy to woodland gardens and cottage-style landscapes.",
+            "article": "Astrantia, commonly known as Masterwort, features intricate flowers in shades of pink, white, or green. This herbaceous perennial thrives in shady locations and adds a touch of whimsy to woodland gardens and cottage-style landscapes. Astrantia major var. rosea (Great Masterwort) is a clump-forming perennial boasting exquisite clusters of tiny pink flowers crowded together in a dome-shaped flowerhead, just like pins on a cushion. They are surrounded by an elegant ruff of magenta papery bracts. The delicate blooms are borne on upright stems, well above the rosette of deeply divided, coarsely-toothed dark green leaves.",
+            "available": false
+        },
+        {
+            "id": 5,
+            "name": "White Gazania",
+            "file": "White_Gazania.jpg",
+            "description": "White Gazania dazzles with its pure white blooms, each petal glistening in the sunlight. This drought-tolerant annual thrives in sunny locations, making it an ideal choice for gardens, borders, and containers.",
+            "article": "Gazania ‘Big Kiss White Flame’ (Treasure Flower) is a tender evergreen perennial boasting extra large creamy-white flowers, 5 in. across (12 cm), adorned with a dark pink stripe down each ray floret and a golden disk. The brilliant blossoms close at night and in cloudy weather. Blooming profusely in late spring and early summer, they flower intermittently through the rest of the year in mild winter areas. They are held high above the bushy foliage mat of bright green leaves adorned with silvery undersides. Native to South Africa, Gazanias are ridiculously easy to grow, tolerate drought, heat, and seacoast conditions, and grow well in most soils. Prized by gardeners for their dazzling colors, Gazanias are ideal plants to add drama to sun-baked sites with dry soil, where other plants would shrivel.",
+            "available": false
+        }
+    ]
+}

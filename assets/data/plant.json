@@ -1,0 +1,76 @@
+{
+    "flowers": [
+        {
+            "description": "Description of the Agapanthus flower",
+            "name": "Agapanthus",
+            "file": "Agapanthus_Postbloom.jpg",
+            "datePlanted": "2022-05-10",
+            "Temperature": "Mid",
+            "Moisture": "normal",
+            "Light": "good"
+        },
+        {
+            "description": "Description of the Ageratum flower",
+            "name": "Ageratum",
+            "file": "Ageratum_houstonianum.jpg",
+            "datePlanted": "2021-11-28",
+            "Temperature": "Very High",
+            "Moisture": "good",
+            "Light": "normal"
+        },
+        {
+            "description": "Description of the Alchemilla flower",
+            "name": "Alchemilla",
+            "file": "Alchemilla_Alpina.jpg",
+            "datePlanted": "2023-02-15",
+            "Temperature": "Low",
+            "Moisture": "bad",
+            "Light": "normal"
+        },
+        {
+            "description": "Description of the Allium flower",
+            "name": "Allium",
+            "file": "Allium_Roseum_Pisa.jpg",
+            "datePlanted": "2020-07-20",
+            "Temperature": "Very Low",
+            "Moisture": "normal",
+            "Light": "good"
+        },
+        {
+            "description": "Description of the Alstroemeria flower",
+            "name": "Alstroemeria",
+            "file": "Alstroemeria_Aurea_Saturne.jpg",
+            "datePlanted": "2023-09-05",
+            "Temperature": "High",
+            "Moisture": "good",
+            "Light": "bad"
+        },
+        {
+            "description": "Description of the Astrantia flower",
+            "name": "Astrantia",
+            "file": "Astrantia.jpg",
+            "datePlanted": "2022-04-03",
+            "Temperature": "Mid",
+            "Moisture": "normal",
+            "Light": "good"
+        },
+        {
+            "description": "Description of the White Gazania flower",
+            "name": "White Gazania",
+            "file": "White_Gazania.jpg",
+            "datePlanted": "2021-12-15",
+            "Temperature": "High",
+            "Moisture": "bad",
+            "Light": "good"
+        },
+        {
+            "description": "Description of the Wood Anemone flower",
+            "name": "Wood Anemone",
+            "file": "Wood Anemone_Flowers.jpg",
+            "datePlanted": "2020-10-30",
+            "Temperature": "Mid",
+            "Moisture": "good",
+            "Light": "normal"
+        }
+    ]
+}
